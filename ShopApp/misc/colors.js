@@ -1,0 +1,17 @@
+export default{
+    BACKGROUND:"#fce4ec",
+    BTNBACKGROUND:"#f8bbd0",
+    BTNADD:"#ff4081",
+    WHITE:"#ffffff",
+    BLACK:"#111111",
+    GREY:"#ede7f6",
+    BAR:"#ff80ab",
+    RED:"#ff1714",
+    ORANGE: "#ff6d00",
+    YELLOW:"#ffd600",
+    GREEN:"#00c853",
+    BLUE:"#0091ea",
+    INDIGO:"#304ffe",
+    VIOLET:"#aa00ff",
+    DARKPINK:"#c60055",
+}
